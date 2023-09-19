@@ -1,3 +1,5 @@
+---Used Techonlogy :  Git, Github, Python, Opencv, Mediapipe
+
 - Developed an innovative Hand Gesture Volume Control System using OpenCV, MediaPipe and Numpy in 
 Python.
 - Enabled users to intuitively adjust audio volume through recognized hand gestures, enhancing user interaction.
